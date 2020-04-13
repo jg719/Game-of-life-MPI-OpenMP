@@ -8,7 +8,7 @@ The code has been executed on Imperial’s CX1 HPC for high-dimensional grids, u
 
 Lastly, the correctness of the code has been ensured through testing. Simple gliders have been generated in such a way that the middle, boundary and corner cases are tested – both for periodic and non-periodic boundaries. 
 
-![alt text](https://github.com/acse-2019/acse-6-individual-assignment-acse-jg719/blob/master/post-processing%20and%20animations/animations/periodic_big.gif "Game of Life local simulation on 4 processes")
+![alt text](https://github.com/jg719/Game-of-life-MPI-OpenMP/blob/master/MPI_Game_of_Life/post-processing%20and%20animations/animations/periodic_big.gif"Game of Life local simulation on 4 processes")
 
 
 REPOSITORY STRUCTURE
