@@ -1,0 +1,41 @@
+# mpiexec: MPI is /apps/mpi/intel/2019.6.166
+# mpiexec: No RDMA network found -- using sockets+shared memory
+# mpiexec: full path to program is /rds/general/user/jg719/home/my_code
+# mpiexec: program arguments are: 
+# mpiexec: 2 ranks allocated via PBS select
+# mpiexec: 16 OpenMP threads / rank allocated by PBS select
+# mpiexec: Job has exclusive use of the allocated nodes. Enabling process-pinning
+# mpiexec: machinefile configured as:
+cx1-105-10-4.cx1.hpc.ic.ac.uk:2
+#
+# mpiexec: Checking all nodes are ONLINE:
+# mpiexec: All nodes appear ONLINE
+# mpiexec: launch started at Wed 19 Feb 08:38:45 GMT 2020
+# mpiexec: launching program...
+# /rds/general/user/jg719/home/my_code 
+(cx1-105-10-4.cx1.hpc.ic.ac.uk:0,1)
+
+[0] MPI startup(): I_MPIFALLBACK environment variable is not supported.
+[0] MPI startup(): To check the list of supported variables, use the impi_info utility or refer to https://software.intel.com/en-us/mpi-library/documentation/get-started.
+
+
+
+
+
+Domain rows: 1000 cols: 1000; Elapsed time: 10.9054 s
+
+
+
+
+
+# mpiexec: finished at Wed 19 Feb 08:38:57 GMT 2020
+
+============================================
+
+        Job resource usage summary 
+
+                 Memory (GB)    NCPUs
+ Requested  :        10            32
+ Used       :         1 (peak)   1.80 (ave)
+
+============================================
